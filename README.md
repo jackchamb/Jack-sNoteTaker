@@ -15,6 +15,6 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 GOALS: 
-add more commits and comments to make my code more descriptive 
-add a notes array
-delpoy the web app
+1. add more commits and comments to make my code more descriptive, 
+2. add a notes array,
+3. delpoy the web app,
